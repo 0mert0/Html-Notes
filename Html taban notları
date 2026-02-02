@@ -1,33 +1,59 @@
 Notlar!!
+
+Temel Yapı
 <!--<!DOCTYPE html> tagı HTML belgesinin tipini belirtir, mutlaka en üstte olmalı -->
-<!----> <!-- tagı açıklama için yazılır -->
+<!--<html lang=""> tagı html sayfasının başlatılıp hangi dilde olduğunu belirtir-->
+<!--<meta charset="utf-8">  türkce karakterlerin görünmesini sağlar-->
 <!--html komutları önce html/head/body/html olarak yazılır-->
+
+
+Açıklama ve Metin Formatlama
+<!----> <!-- tagı açıklama için yazılır -->
+<!--<p> tagı paragraf yazmak için kullanılır-->
+<!--yazı kalınlaştırma için <b> veya <strong> tagı kullanılabilir-->
+<!--yazıyı eğik yapmak için <i> tagı veya <em> tagı kullanılır-->
+<!--yazının altını çizmek için <u> tagı kullanılır-->  
+<!--<br> tagı alt satıra geçmek için kullanılır-->
+<!--<hr> tagı sayfaya yatay çizgi eklemek için kullanılır-->
+
+
+Başlıklar
 <!--başlık yazmak için <title> tagı kullanılır-->
 <!--<h1> tagı başlık için kullanılır-->
 <!--<h2> tagı iletişim bilgileri metninin başlık olmasını büyük ve kalın gösterilmesini sağlar-->
-<!--yazıyı kalın yapmak için <b> veya <strong> tagı kullanılır-->
-<!--yazıyı eğik yapmak için <i> tagı veya <em> tagı kullanılır-->
-<!--yazının altını çizmek için <u> tagı kullanılır-->    
-<!--<br> tagı alt satıra geçmek için kullanılır-->
-<!--<hr> tagı sayfaya yatay çizgi eklemek için kullanılır-->
-<!--<p> tagı paragraf yazmak için kullanılır-->
+
+
+Bağlantılar ve Medya
 <!-- <a> tagı link vermek için kullanılır -->
-<!--yazı kalınlaştırma için <b> veya <strong> tagı kullanılabilir-->
 <!-- <img> tagı resim eklemek için kullanılır -->
+
+
+Listeler
 <!-- <ul> sırasız liste, <ol> sıralı liste oluşturur -->
 <!-- <li> liste elemanıdır -->
+<!-- <ol> sıralı liste oluşturmaya yarar-->
+
+
+ Bölümleme ve Düzen   
 <!-- <div> blok elemanıdır, sayfayı bölmek için kullanılır -->
 <!-- <span> satır içi elemandır, küçük alanları düzenler -->
-<!--taglar body tagının içine yazılması gerek yoksa siteyi ziyaret eden kişi hiçbirini göremez-->
-<!--<meta charset="utf-8">  türkce karakterlerin görünmesini sağlar-->
-<!--<html lang=""> tagı html sayfasının başlatılıp hangi dilde olduğunu belirtir-->
 <!--<section> tagı aynı konuları kapsamak için kullanılır <article> tagına benzerdir-->
 <!--<article> tagı web içeriklerini kapsamak için kullanılır resim,video,ses,yorum,haber,forum gönderisi olabilir-->
-<!--<header> sayfanın üst kısmıdır; logo, site başlığı, menü gibi üst bilgileri olduğu alandır -->
-<!--<nav> tagı site içi veya site dışı gezinti (menü) linklerini gruplamak için kullanılır -->
+<!--<header> sayfanın üst kısmıdır; logo, site başlığı, menü gibi üst bilgileri olduğu alandır -->   
+<!--<nav> tagı site içi veya site dışı gezinti (menü) linklerini gruplamak için kullanılır -->   
 <!--<aside> tagı sayfaların sol ya da sağ kenarında bulunan ve ana konuyla ilgili menü tarzı içerikleri barındıran bölümdür-->
 <!--<footer> sayfanın en alt kısmı, telif hakkı, iletişim ve alt bilgiler burada olur -->
+
+
+Medya ve Referans
 <!--<figure> tagı fotoğraf,şekil,illüstrasyon gibi içerikleri ve bu içeriklerle ilgili başlık bilgisini bulundurmaya yarar-->
 <!--bir kişi,firma,kurum,oyun,kitap,gazete,filmin,nesnelerin adını vurgulamak veya referans vermek için <cite> tagı kullanılır-->
 
- <!--eski tarayıcılar için HTML5Shiv dosyasını indirmek için https://code.google.com/p/html5shiv/ adresi kullanılabilir-->   
+
+<!--taglar body tagının içine yazılması gerek yoksa siteyi ziyaret eden kişi hiçbirini göremez-->
+
+
+
+<!-- Önemli Not: HTML tagları genellikle <body> tagı içine yazılmalıdır. 
+Aksi takdirde siteyi ziyaret eden kişi içerikleri göremez. -->
+<!--eski tarayıcılar için HTML5Shiv dosyasını indirmek için https://code.google.com/p/html5shiv/ adresi kullanılabilir-->   
