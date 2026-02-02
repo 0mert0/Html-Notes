@@ -15,6 +15,8 @@ Açıklama ve Metin Formatlama
 <!--yazının altını çizmek için <u> tagı kullanılır-->  
 <!--<br> tagı alt satıra geçmek için kullanılır-->
 <!--<hr> tagı sayfaya yatay çizgi eklemek için kullanılır-->
+<!-- <blockquote> tagı uzun alıntı metinleri göstermek için kullanılır -->
+
 
 
 Başlıklar
