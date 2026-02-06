@@ -15,13 +15,14 @@ Açıklama ve Metin Formatlama
 <!--yazının altını çizmek için <u> tagı kullanılır-->  
 <!--<br> tagı alt satıra geçmek için kullanılır-->
 <!--<hr> tagı sayfaya yatay çizgi eklemek için kullanılır-->
-<!-- <blockquote> tagı uzun alıntı metinleri göstermek için kullanılır -->
+<!--<blockquote> tagı uzun alıntı metinleri göstermek için kullanılır -->
 <!--<mark> tagı ile vurgulamanılması gereken metinleri fosforlu kalemle çizmiş gibi çizebiliriz-->
-<!-- <abbr> tagı kısaltmaların ne anlama geldiğini belirtmek için kullanılır title özelliği ile birlikte kullanılır, üzerine gelince açıklama görünür -->
-<!-- <dfn> tagı bir terimin ilk kez tanımının yapıldığını belirtmek için kullanılır -->
-<!-- <sub> tagı alt simge (aşağıda küçük yazı) göstermek için yazılır -->
-<!-- <sup> tagı üst simge (yukarıda küçük yazı) göstermek için yazılır -->
-
+<!--<abbr> tagı kısaltmaların ne anlama geldiğini belirtmek için kullanılır title özelliği ile birlikte kullanılır, üzerine gelince açıklama görünür -->
+<!--<dfn> tagı bir terimin ilk kez tanımının yapıldığını belirtmek için kullanılır -->
+<!--<sub> tagı alt simge (aşağıda küçük yazı) göstermek için yazılır -->
+<!--<sup> tagı üst simge (yukarıda küçük yazı) göstermek için yazılır -->
+<!--<del> tagı kelimenin üstünü çizer-->
+<!--<ins> tagı kelimenin altını çizer-->   
 
 
 Başlıklar
