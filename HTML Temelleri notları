@@ -23,6 +23,10 @@ Açıklama ve Metin Formatlama
 <!--<sup> tagı üst simge (yukarıda küçük yazı) göstermek için yazılır -->
 <!--<del> tagı kelimenin üstünü çizer-->
 <!--<ins> tagı kelimenin altını çizer-->   
+<!--<code> tagı kod parçalarını metin içinde göstermek için kullanılır -->
+<!--<kbd> tagı kullanıcının klavyeden bastığı tuşları veya klavye kısayollarını göstermek için kullanılır -->
+
+
 
 
 Başlıklar
