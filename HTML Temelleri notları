@@ -33,7 +33,7 @@ Açıklama ve Metin Formatlama
 
 Başlıklar
 <!--başlık yazmak için <title> tagı kullanılır-->
-<!--<h1> tagı başlık için kullanılır-->
+<!--<h1> tagı başlık için kullanılır <h6> ya kadar yazılır-->
 <!--<h2> tagı iletişim bilgileri metninin başlık olmasını büyük ve kalın gösterilmesini sağlar-->
 
 
